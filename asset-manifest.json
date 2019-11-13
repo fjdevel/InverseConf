@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/InverseConff/static/css/main.b100e6da.chunk.css",
+    "main.js": "/InverseConff/static/js/main.a77f4d69.chunk.js",
+    "main.js.map": "/InverseConff/static/js/main.a77f4d69.chunk.js.map",
+    "runtime-main.js": "/InverseConff/static/js/runtime-main.a42d3e2a.js",
+    "runtime-main.js.map": "/InverseConff/static/js/runtime-main.a42d3e2a.js.map",
+    "static/js/2.621283f4.chunk.js": "/InverseConff/static/js/2.621283f4.chunk.js",
+    "static/js/2.621283f4.chunk.js.map": "/InverseConff/static/js/2.621283f4.chunk.js.map",
+    "index.html": "/InverseConff/index.html",
+    "precache-manifest.563eefb25665afe07b6eb85c4311008f.js": "/InverseConff/precache-manifest.563eefb25665afe07b6eb85c4311008f.js",
+    "service-worker.js": "/InverseConff/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/InverseConff/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/InverseConff/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a42d3e2a.js",
+    "static/js/2.621283f4.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a77f4d69.chunk.js"
+  ]
+}
